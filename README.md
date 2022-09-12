@@ -17,5 +17,5 @@ npm start(server/client)
 ```
 
 example:
-![image](
-https://github.com/vskorop/test-work-gpb/blob/master/client/public/example.gif)
+
+![image](https://github.com/vskorop/test-work-gpb/blob/master/client/public/example.gif)

@@ -1,5 +1,23 @@
 # Тестовые задания по React
 
+<h4> install </h4>
+
+```
+npm i
+npm start(server/client)
+go to -> http://localhost:3000
+```
+
+<h4>example:</h4>
+
+![image](https://github.com/vskorop/test-work-gpb/blob/master/client/public/example.gif)
+
+
+
+
+
+
+
 Каждое задание оценивается звездочкой.
 
 1. [Задание 1 (*)](https://github.com/GPB-COS/test-work-react/tree/master/test%201)
@@ -10,12 +28,3 @@
 
 * [Мокин Роман](mailto:roman.mokin@gazprombank.ru?subject=[GPB_COS]%20Test%20GPB)
 * [Иванов Алексей](mailto:alex.ivanov_DITOP@gazprombank.ru?subject=[GPB_COS]%20Test%20GPB)
-
-```
-npm i
-npm start(server/client)
-```
-
-example:
-
-![image](https://github.com/vskorop/test-work-gpb/blob/master/client/public/example.gif)

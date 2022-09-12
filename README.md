@@ -10,3 +10,7 @@
 
 * [Мокин Роман](mailto:roman.mokin@gazprombank.ru?subject=[GPB_COS]%20Test%20GPB)
 * [Иванов Алексей](mailto:alex.ivanov_DITOP@gazprombank.ru?subject=[GPB_COS]%20Test%20GPB)
+
+
+![image](
+https://github.com/vskorop/test-work-gpb/blob/master/client/public/example.gif)
